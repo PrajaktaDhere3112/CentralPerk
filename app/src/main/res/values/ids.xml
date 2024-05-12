@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pizza" type="id" />
+    <item name="pasta" type="id" />
+    <item name="sandwhich" type="id" />
+    <item name="burger" type="id" />
+    <item name="fries" type="id" />
+    <item name="coffe" type="id" />
+    <item name="drinks" type="id" />
+    <item name="icecream" type="id" />
+</resources>

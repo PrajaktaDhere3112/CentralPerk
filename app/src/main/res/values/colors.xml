@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">@android:color/holo_orange_dark</color>
+    <color name="colorPrimary">@android:color/holo_orange_light</color>
+    <color name="colorPrimaryDark">@color/design_default_color_error</color>
+    <color name="colorSecondary">#7E57C2</color>
+    <color name="colorSecondaryVariant">#4A59AC</color>
+    <color name="colorOnSecondary">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

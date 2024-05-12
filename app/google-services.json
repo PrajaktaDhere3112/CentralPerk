@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901501183414",
+    "project_id": "cafe-food-ordering-baf19",
+    "storage_bucket": "cafe-food-ordering-baf19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901501183414:android:b9aa9b62e9369c44a7cd17",
+        "android_client_info": {
+          "package_name": "com.app.ordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901501183414-qkpg8cq31rm2ch9i3bl4lg9ca2o79dph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYkSXp7AwORhGyovY_yK4Qu25saRNABX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901501183414-qkpg8cq31rm2ch9i3bl4lg9ca2o79dph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
